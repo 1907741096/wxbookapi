@@ -1,0 +1,1569 @@
+[ 2017-05-19T15:16:37+08:00 ] ::1 /wxbook/index.php?m=api&c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:16:39+08:00 ] ::1 /wxbook/index.php?m=api&c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:18:16+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-19T15:18:27+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-05-19T15:18:47+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:19:22+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:19:56+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:19:57+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:20:00+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:20:01+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:20:10+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:20:15+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:21:21+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:22:00+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:22:12+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:23:26+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-05-19T15:23:58+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] md5() expects parameter 1 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php 第 89 行.
+NOTIC: [2] is_file() expects parameter 1 to be a valid path, array given C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 89 行.
+NOTIC: [2] md5() expects parameter 1 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 97 行.
+NOTIC: [2] preg_match() expects parameter 2 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 249 行.
+NOTIC: [2] preg_match() expects parameter 2 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 204 行.
+NOTIC: [2] preg_match_all() expects parameter 2 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 231 行.
+NOTIC: [2] preg_match() expects parameter 2 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 369 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\wxbook\ThinkPHP\Library\Think\Template.class.php 第 130 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-05-19T15:24:05+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] md5() expects parameter 1 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php 第 89 行.
+NOTIC: [2] md5() expects parameter 1 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:24:53+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] md5() expects parameter 1 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php 第 89 行.
+NOTIC: [2] md5() expects parameter 1 to be string, array given C:\wamp\www\wxbook\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:25:53+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:27:28+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-19T15:27:35+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T15:27:52+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-19T15:27:56+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-19T15:28:14+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion C:\wamp\www\wxbook\Application\Api\Controller\BookController.class.php 第 18 行.
+
+[ 2017-05-19T15:28:26+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-19T15:28:35+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-19T15:28:38+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-19T15:28:59+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:29:20+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1770782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1770782 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-19T15:40:09+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&id=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 参数错误或者未定义:author
+
+[ 2017-05-19T15:40:28+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T15:40:53+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:42:12+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:42:25+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:43:19+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:44:56+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:45:38+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:46:43+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:47:37+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-05-19T15:48:09+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:50:32+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:50:44+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:50:51+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:51:08+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+ERR: 表达式错误:author
+
+[ 2017-05-19T15:52:18+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+
+[ 2017-05-19T15:52:21+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+
+[ 2017-05-19T15:52:28+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+
+[ 2017-05-19T15:52:36+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+
+[ 2017-05-19T15:52:40+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+
+[ 2017-05-19T15:53:18+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+
+[ 2017-05-19T15:53:26+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `author` LIKE '%东野圭吾%'  [ RunTime:0.0040s ]
+
+[ 2017-05-19T15:53:40+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `author` LIKE '%东野圭吾%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T15:54:21+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyauthor&author=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `author` LIKE '%东野圭吾%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T15:54:49+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=444 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-19T16:08:59+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%B0%8F%E8%AF%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-19T16:09:33+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%B0%8F%E8%AF%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_book`  [ RunTime:0.0090s ]
+
+[ 2017-05-19T16:48:38+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%B0%8F%E8%AF%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book`  [ RunTime:0.0070s ]
+
+[ 2017-05-19T16:48:55+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%B0%8F%E8%AF%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `wxbook_book`  [ RunTime:0.0100s ]
+
+[ 2017-05-19T16:51:35+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%B0%8F%E8%AF%B4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` LIMIT 0,20   [ RunTime:0.0020s ]
+
+[ 2017-05-19T16:52:08+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%B0%8F%E8%AF%B4&start=1&count=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` LIMIT 1,2   [ RunTime:0.0000s ]
+
+[ 2017-05-19T17:05:32+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0110s ]
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+
+[ 2017-05-19T17:05:51+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0110s ]
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+
+[ 2017-05-19T17:21:20+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+
+[ 2017-05-19T17:21:34+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0110s ]
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+
+[ 2017-05-19T17:22:16+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-05-19T17:22:27+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+
+[ 2017-05-19T17:23:16+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+ERR: 1054:Champ '白夜行' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `wxbook_book` WHERE ( title=白夜行 ) LIMIT 1  
+
+[ 2017-05-19T17:25:11+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-19T17:25:27+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-05-19T17:27:40+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T17:29:47+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T17:31:44+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T17:32:05+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T17:34:01+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytitle&title=%E7%99%BD%E5%A4%9C%E8%A1%8C
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `title` LIKE '%白夜行%'  [ RunTime:0.0010s ]
+
+[ 2017-05-19T17:45:31+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:46:06+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:46:07+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:47:37+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:47:42+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:48:36+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:49:35+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:57:24+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:57:53+08:00 ] ::1 /wxbook/api.php?c=book&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:getbook
+
+[ 2017-05-19T17:57:57+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:57:58+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:58:20+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:58:21+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:59:31+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T17:59:42+08:00 ] ::1 /wxbook/api.php?c=newbookconytoller&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbookconytoller
+
+[ 2017-05-19T17:59:50+08:00 ] ::1 /wxbook/api.php?c=newbookcontroller&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbookcontroller
+
+[ 2017-05-19T17:59:57+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:44+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:44+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:45+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:45+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:45+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:45+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:45+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:46+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:47+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:47+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:47+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:47+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:47+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:48+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:48+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:48+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:48+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:48+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:49+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:49+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:49+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:49+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:49+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:50+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:50+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:50+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:50+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:50+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:51+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:51+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:51+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:51+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:51+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:51+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:52+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:52+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:52+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:52+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:52+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:00:58+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:02:55+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:03:00+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:05:09+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:05:10+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:05:24+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-19T18:05:34+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-19T18:06:01+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:06:03+08:00 ] ::1 /wxbook/api.php?c=newbook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Newbook
+
+[ 2017-05-19T18:06:10+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-19T18:06:25+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=5&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 5,5   [ RunTime:0.0000s ]
+
+[ 2017-05-19T18:06:39+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2017-05-19T18:07:06+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2017-05-19T18:07:12+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2017-05-19T18:22:14+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,20   [ RunTime:0.0000s ]
+
+[ 2017-05-19T18:22:21+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 5,25   [ RunTime:0.0010s ]
+
+[ 2017-05-19T18:22:50+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=300
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 300,25   [ RunTime:0.0000s ]
+
+[ 2017-05-19T18:23:08+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=300
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,300   [ RunTime:0.0020s ]
+
+[ 2017-05-19T18:23:22+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=-10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+ERR: 1064:Erreur de syntaxe près de '-10' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `wxbook_douban_top250` LIMIT 0,-10  
+ERR: 1064:Erreur de syntaxe près de '-10' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `wxbook_douban_top250` LIMIT 0,-10  
+
+[ 2017-05-19T19:04:50+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+

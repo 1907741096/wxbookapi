@@ -1,0 +1,209 @@
+CREATE DATABASE  IF NOT EXISTS `wxbook`;
+USE `wxbook`;
+
+DROP TABLE IF EXISTS `wxbook_admin`;
+CREATE TABLE  IF NOT EXISTS `wxbook_admin`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`username` VARCHAR(50) NOT NULL UNIQUE,
+	`password`  CHAR(32) NOT NULL,
+	`tel` CHAR(11) NOT NULL UNIQUE,
+	`school` VARCHAR(50) NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1,
+	`create_time` INT NOT NULL DEFAULT 0,
+	`lastlogin_time` INT NOT NULL 0,
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_user`;
+CREATE TABLE  IF NOT EXISTS `wxbook_user`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`username` VARCHAR(50) NOT NULL UNIQUE,
+	`password`  CHAR(32) NOT NULL,
+	`openid` VARCHAR (100) UNIQUE ,
+	`name` VARCHAR (100),
+	`face` VARCHAR (200) ,
+	`sex` TINYINT(1) NOT NULL DEFAULT 1,
+	`school` VARCHAR(50) NOT NULL,
+	`push` TINYINT(1) NOT NULL DEFAULT 1,
+	`push_time` INT NOT NULL DEFAULT 0,
+	`status` TINYINT(1) NOT NULL DEFAULT 1,
+	`create_time` INT NOT NULL
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_douban_top250`;
+CREATE TABLE IF NOT EXISTS `wxbook_douban_top250`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`bookid` INT NOT NULL UNIQUE,
+	`title` VARCHAR(100) NOT NULL,
+	`image` VARCHAR(100) NOT NULL,
+	`rating` FLOAT(2,1) NOT NULL,
+	`address` VARCHAR(100) NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_douban_newbook`;
+CREATE TABLE IF NOT EXISTS `wxbook_douban_newbook`(
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `bookid` int(11) NOT NULL,
+  `title` varchar(100) NOT NULL,
+  `image` varchar(100) NOT NULL,
+  `rating` float(2,1) NOT NULL,
+  `address` varchar(100) NOT NULL,
+  `status` TINYINT(1) NOT NULL DEFAULT 1,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `bookid` (`bookid`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+DROP TABLE IF EXISTS `wxbook_douban_hotbook`;
+CREATE TABLE IF NOT EXISTS `wxbook_douban_hotbook`(
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `bookid` int(11) NOT NULL,
+  `title` varchar(100) NOT NULL,
+  `image` varchar(100) NOT NULL,
+  `rating` float(2,1) NOT NULL,
+  `address` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `bookid` (`bookid`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+DROP TABLE IF EXISTS `wxbook_item`;
+CREATE TABLE IF NOT EXISTS `wxbook_item`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `name` VARCHAR (100) NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_position`;
+CREATE TABLE IF NOT EXISTS `wxbook_position`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`itemid` INT NOT NULL,
+	`bookid` INT NOT NULL,
+	`listorder` INT NOT NULL DEFAULT 0,
+	`create_time` INT DEFAULT 0,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_book`;
+CREATE TABLE IF NOT EXISTS `wxbook_book`(
+	`id` INT NOT NULL PRIMARY KEY,
+	`bookid` INT NOT NULL UNIQUE,
+	`title` VARCHAR(100) NOT NULL,
+	`author` VARCHAR(300) NOT NULL,
+	`image` VARCHAR(100) NOT NULL,
+	`isbn` VARCHAR(50) NOT NULL,
+	`publisher` VARCHAR(100) NOT NULL,
+	`pubdate` VARCHAR(20) NOT NULL,
+	`tags` VARCHAR(300) NOT NULL,
+	`rating` FLOAT(2,1) NOT NULL,
+	`pages` INT NOT NULL,
+	`price` FLOAT(5,2) NOT NULL,
+	`count` INT NOT NULL DEFAULT 2,
+	`good` INT NOT NULL DEFAULT 0,
+	`collect` INT NOT NULL DEFAULT 0,
+	`summary` TEXT NOT NULL,
+	`author_info` TEXT NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_token`;
+CREATE TABLE IF NOT EXISTS `wxbook_token`(
+  `id` INT PRIMARY KEY AUTO_INCREMENT,
+  `token` VARCHAR (200) NOT NULL,
+  `time` INT NOT NULL DEFAULT 0
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_borrow`;
+CREATE TABLE IF NOT EXISTS `wxbook_borrow`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`userid` INT NOT NULL,
+	`bookid` INT NOT NULL,
+	`borrow_time` INT NOT NULL,
+	`return_time` INT NOT NULL,
+	`money` FLOAT(5,2) NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_collect`;
+CREATE TABLE IF NOT EXISTS `wxbook_collect`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`userid` INT NOT NULL,
+	`bookid` INT NOT NULL,
+  `status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_good`;
+CREATE TABLE IF NOT EXISTS `wxbook_good`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`userid` INT NOT NULL,
+	`bookid` INT NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_reserve`;
+CREATE TABLE IF NOT EXISTS `wxbook_reserve`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`userid` INT NOT NULL,
+	`bookid` INT NOT NULL,
+	`borrow_time` INT NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_cart`;
+CREATE TABLE IF NOT EXISTS `wxbook_cart`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`userid` INT NOT NULL,
+	`bookid` INT NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_message`;
+CREATE TABLE IF NOT EXISTS `wxbook_message`(
+  `id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `userid` INT NOT NULL,
+  `type` VARCHAR(30) NOT NULL,
+  `message` TEXT NOT NULL,
+  `status` TINYINT(1) NOT NULL DEFAULT 1,
+  `time` INT NOT NULL DEFAULT 0
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_commend`;
+CREATE TABLE IF NOT EXISTS `wxbook_commend`(
+	`id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`bookid` INT NOT NULL UNIQUE,
+	`userid` INT NOT NULL,
+	`title` VARCHAR(100) NOT NULL,
+	`author` VARCHAR(300) NOT NULL,
+	`image` VARCHAR(100) NOT NULL,
+	`isbn` VARCHAR(50) NOT NULL,
+	`publisher` VARCHAR(100) NOT NULL,
+	`pubdate` VARCHAR(20) NOT NULL,
+	`tags` VARCHAR(300) NOT NULL,
+	`rating` FLOAT(2,1) NOT NULL,
+	`pages` INT NOT NULL,
+	`price` FLOAT(5,2) NOT NULL,
+	`summary` TEXT NOT NULL,
+	`author_info` TEXT NOT NULL,
+	`status` TINYINT(1) NOT NULL DEFAULT 1
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_comment`;
+CREATE TABLE IF NOT EXISTS `wxbook_comment`(
+  `id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `userid` INT NOT NULL,
+  `bookid` INT NOT NULL,
+  `content` TEXT NOT NULL,
+  `rating` TINYINT NOT NULL DEFAULT 10,
+  `status` TINYINT(1) NOT NULL DEFAULT 1,
+  `create_time` INT NOT NULL DEFAULT 0
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `wxbook_search`;
+CREATE TABLE IF NOT EXISTS `wxbook_search`(
+  `id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `userid` INT NOT NULL,
+  `content` TEXT NOT NULL,
+  `status` TINYINT(1) NOT NULL DEFAULT 1,
+  `create_time` INT NOT NULL DEFAULT 0
+)ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+
+

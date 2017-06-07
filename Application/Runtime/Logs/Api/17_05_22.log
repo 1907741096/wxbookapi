@@ -1,0 +1,2402 @@
+[ 2017-05-22T20:06:33+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=hlb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0010s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T20:06:47+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=hl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T20:06:47+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T20:06:50+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T20:06:50+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=hz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T20:06:54+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=h
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T20:15:27+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%95%A3%E6%96%87
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%散文%' LIMIT 0,20   [ RunTime:0.0020s ]
+
+[ 2017-05-22T20:15:34+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%95%A3%E6%96%87&start=20&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%散文%' LIMIT 20,20   [ RunTime:0.0020s ]
+
+[ 2017-05-22T20:15:34+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%95%A3%E6%96%87&start=40&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%散文%' LIMIT 40,20   [ RunTime:0.0010s ]
+
+[ 2017-05-22T20:15:35+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%95%A3%E6%96%87&start=60&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%散文%' LIMIT 60,20   [ RunTime:0.0020s ]
+
+[ 2017-05-22T20:15:35+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%95%A3%E6%96%87&start=80&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%散文%' LIMIT 80,20   [ RunTime:0.0010s ]
+
+[ 2017-05-22T20:15:48+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%日本文学%' LIMIT 0,20   [ RunTime:0.0020s ]
+
+[ 2017-05-22T20:15:52+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6&start=20&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%日本文学%' LIMIT 20,20   [ RunTime:0.0030s ]
+
+[ 2017-05-22T20:15:53+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6&start=40&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%日本文学%' LIMIT 40,20   [ RunTime:0.0010s ]
+
+[ 2017-05-22T20:15:54+08:00 ] ::1 /wxbook/api.php?c=Book&a=getbookbytag&tag=%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6&start=60&count=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%日本文学%' LIMIT 60,20   [ RunTime:0.0010s ]
+
+[ 2017-05-22T20:15:58+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=10554308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=10554308 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T20:15:58+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E4%B8%9C&start=0&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%东%' LIMIT 0,5   [ RunTime:0.0020s ]
+
+[ 2017-05-22T20:16:13+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=25924253
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=25924253 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T20:16:13+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E4%B8%9C&start=0&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%东%' LIMIT 0,5   [ RunTime:0.0010s ]
+
+[ 2017-05-22T21:56:50+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T21:56:50+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T21:56:50+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T22:34:39+08:00 ] ::1 /wxbook/api.php?c=Position&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Position
+
+[ 2017-05-22T22:35:07+08:00 ] ::1 /wxbook/api.php?c=position&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Position
+
+[ 2017-05-22T22:35:32+08:00 ] ::1 /wxbook/api.php?c=position&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:getbookbyid
+
+[ 2017-05-22T22:35:50+08:00 ] ::1 /wxbook/api.php?c=position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-22T22:37:32+08:00 ] ::1 /wxbook/api.php?c=position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:38:07+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbookbysearch&search=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10000   [ RunTime:0.0000s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-22T22:38:27+08:00 ] ::1 /wxbook/api.php?c=Position&a=getbookbyid&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:getbookbyid
+
+[ 2017-05-22T22:38:34+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:38:59+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0070s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:45:08+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:47:01+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-22T22:47:02+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-22T22:47:03+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:47:13+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-22T22:47:14+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-22T22:47:14+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:47:15+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-05-22T22:47:15+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-22T22:47:27+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:47:36+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-22T22:47:43+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:47:47+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:47:53+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-22T22:48:02+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0070s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:54:45+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0050s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:54:59+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:55:00+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0050s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:55:04+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0050s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:55:05+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0070s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:55:06+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0070s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:55:22+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-22T22:56:56+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:57:35+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0080s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:58:09+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0040s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:58:10+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0070s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:58:11+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:58:32+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:58:35+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0050s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T22:58:37+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T23:00:00+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0050s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T23:01:31+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0050s ]
+ERR: Think\Model:getPositionByItemid方法不存在！
+
+[ 2017-05-22T23:03:00+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:03:17+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:07:32+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:07:39+08:00 ] ::1 /wxbook/api.php?c=Position&a=getposition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:09:50+08:00 ] ::1 /wxbook/api.php?c=Position&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+ERR: 非法操作:getbook
+
+[ 2017-05-22T23:09:50+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:09:50+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0030s ]
+
+[ 2017-05-22T23:09:50+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:10:22+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:10:22+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:10:22+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.038003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.039003s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0020s ]
+
+[ 2017-05-22T23:10:22+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:20:43+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:20:43+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:20:43+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:20:43+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:23:06+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0090s ]
+
+[ 2017-05-22T23:23:06+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:23:06+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:23:06+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:05+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:05+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0030s ]
+
+[ 2017-05-22T23:25:05+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:05+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:18+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:18+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:18+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:18+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:36+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=26279019
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=26279019 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:25:36+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E6%A0%BC&start=0&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%格%' LIMIT 0,5   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:26:18+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:26:18+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:26:18+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:26:18+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:26:29+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:26:29+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0400s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:26:29+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:26:29+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:27:46+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:27:46+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:27:46+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:27:46+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:28:16+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:28:16+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0030s ]
+
+[ 2017-05-22T23:28:16+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:28:16+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0060s ]
+
+[ 2017-05-22T23:28:18+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1065970
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:28:18+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%AE%89&start=0&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%安%' LIMIT 0,5   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:31:25+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:31:25+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:31:26+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:31:26+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0050s ]
+
+[ 2017-05-22T23:31:41+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:31:41+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:31:41+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:31:41+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:32:05+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:32:05+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:32:05+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:32:05+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:32:40+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:32:40+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:32:40+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0060s ]
+
+[ 2017-05-22T23:32:41+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0440s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:33:13+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:33:13+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:33:13+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.005001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:33:13+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:33:31+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:33:31+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:33:31+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:33:31+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:36:14+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=1065970
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:36:14+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E5%AE%89&start=0&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%安%' LIMIT 0,5   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:37:17+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:37:17+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:37:17+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:37:17+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:37:27+08:00 ] ::1 /wxbook/api.php?c=Position&a=getPosition&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wxbook_position` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wxbook_position` WHERE ( itemid=1 ) LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1065970 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=3259440 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=1083428 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:37:27+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:37:27+08:00 ] ::1 /wxbook/api.php?c=NewBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_newbook` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `wxbook_douban_newbook` LIMIT 0,10   [ RunTime:0.0030s ]
+
+[ 2017-05-22T23:37:27+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook&start=0&count=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2017-05-22T23:42:00+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbyid&id=26834481
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_book` WHERE ( bookid=26834481 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-05-22T23:42:00+08:00 ] ::1 /wxbook/api.php?c=book&a=getbookbytag&tag=%E7%99%BE&start=0&count=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wxbook_book` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `wxbook_book` WHERE `tags` LIKE '%百%' LIMIT 0,5   [ RunTime:0.0030s ]
+

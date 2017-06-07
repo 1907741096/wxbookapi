@@ -1,0 +1,1119 @@
+[ 2017-05-21T20:17:35+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0015s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:36+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=mi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:36+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=mit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002501s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0025s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:37+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=mi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:37+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=mie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0015s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:38+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=mi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000500s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0020s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:38+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbookBySearch&search=m
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,10000   [ RunTime:0.0025s ]
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] Uninitialized string offset: 1 C:\wamp\www\wxbook\Application\Common\Common\function.php 第 17 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an incomplete multibyte character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string C:\wamp\www\wxbook\Application\Common\Common\function.php 第 14 行.
+
+[ 2017-05-21T20:17:47+08:00 ] ::1 /wxbook/api.php?c=Top250&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_top250` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `wxbook_douban_top250` LIMIT 0,20   [ RunTime:0.0010s ]
+
+[ 2017-05-21T20:17:54+08:00 ] ::1 /wxbook/api.php?c=HotBook&a=getbook
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wxbook_douban_hotbook` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `wxbook_douban_hotbook` LIMIT 0,20   [ RunTime:0.0005s ]
+
